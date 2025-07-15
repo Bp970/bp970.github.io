@@ -29,3 +29,6 @@ theme = "PaperMod"
     name = "Contact"
     url = "/contact/"
     weight = 5
+
+  [params]
+  customCSS = ["css/custom.css"]
