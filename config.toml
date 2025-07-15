@@ -1,0 +1,31 @@
+baseURL = "https://bp970.github.io/"
+languageCode = "en-us"
+title = "BP970 | DevOps Portfolio"
+theme = "PaperMod"
+
+# Enable dark mode toggle
+[params]
+  disableThemeToggle = false
+
+# Menu
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 3
+  [[menu.main]]
+    name = "Resume"
+    url = "/resume/"
+    weight = 4
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
